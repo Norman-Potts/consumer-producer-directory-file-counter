@@ -1,3 +1,3 @@
-Lab 3 for Parallel Processing
+Consumer Producer Directory File Counter
 
-Lab 3 required me to develop a java file with two classess which demonstrated a producer consumer relationship. The producer would look threw a file directory and place files in a deque. The consumer would take items from the deque and analysis them.
+This is a java program with that looks threw a file directory and analysis them. It uses two classes with demonstrate a producer consumer relationshipp. The producer looks threw a file directory and places the files in a deque. The consumer takes the items from the deque and analysis them. 
